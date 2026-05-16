@@ -1,0 +1,26 @@
+# IDE / Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# FundedAI Pipeline Directories
+1_raw_input/
+2_in_production/
+3_ready_to_upload/
+4_cloud_warehouse/
+5_failed_logs/
+fonts/
+raw_backups/
+
+# Logs & Trends
+trends.txt
+examples.txt
+
+# OS
+.DS_Store
+Thumbs.db
