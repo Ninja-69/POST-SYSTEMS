@@ -36,6 +36,7 @@ hooks_v2/
 scratch/
 fonts/
 raw_backups/
+!banner.png
 
 # Logs & Trends
 trends.txt
