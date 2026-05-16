@@ -202,13 +202,43 @@ To ensure long-term sovereign operations, FundedAI implements three layers of pl
 
 ---
 
-## 🦷 Case Study: Belgrade Dental Arbitrage
-The factory is pre-configured for high-ticket lead generation. By ingesting your `google (1).csv` data, the engine automatically pivots its neural prompts:
+## 📊 Neural Retention Dynamics
+FundedAI uses a **Probability-Based Loop Trigger** to force platform algorithms into a high-reach state.
 
-- **Target:** US/UK Patients seeking "Smile Makeovers."
-- **Proof-Anchor:** `Belgrade Dental Tour`, `Hello Smile Belgrade`.
-- **Value Prop:** "5-Star Belgrade Surgery vs. $50k London Fees."
-- **Status:** **Production Ready.**
+```mermaid
+graph LR
+    A[Initial Hook] --> B{Neural Processing}
+    B -->|Precision Sync| C[95% Retention Loop]
+    B -->|Random Timing| D[40% Drop-off]
+    C --> E[Viral Acceleration]
+    D --> F[Shadowban Risk]
+    
+    style C fill:#27AE60,stroke:#219150,stroke-width:2px,color:#fff
+    style D fill:#E74C3C,stroke:#C0392B,stroke-width:2px,color:#fff
+```
+
+---
+
+## 🛡️ Sovereign Media Cloud: Distributed Warehouse Topology
+The production factory operates across a decentralized 5-stage media pipeline to ensure maximum data integrity and zero-footprint delivery:
+
+1.  **Ingestion Node (`/1_raw_input`):** Raw high-bitrate acquisition.
+2.  **Neural Node (`/2_in_production`):** Pre-edit metadata injection and strategy mapping.
+3.  **Assembly Node (`/3_ready_to_upload`):** H.264 Baseline Level 3.0 assembly.
+4.  **Vault Node (`/4_cloud_warehouse`):** Permanent archival of viral assets.
+5.  **Audit Node (`/5_failed_logs`):** Post-mortem analysis of un-analyzable data.
+
+---
+
+## 🧬 Strategic Persona Mappings
+Our AI doesn't just write text; it maps linguistic tokens to psychological archetypes:
+
+| Strategy | Token Cadence | Psychological Trigger |
+| :--- | :--- | :--- |
+| **TRANSITIONAL** | High Variance | Pattern Interrupt |
+| **MALICIOUS** | Fast-Attack | Speed-Reading Engagement |
+| **EGO** | Low-Pitch Direct | Authority Dominance |
+| **GATEKEEPER** | Delayed CTA | Mystery/Curiosity Loop |
 
 ---
 
