@@ -8,12 +8,32 @@ env/
 venv/
 ENV/
 
-# FundedAI Pipeline Directories
+# Global Media Block (Security)
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+
+# All Production & Cache Folders
+0_download_zone/
 1_raw_input/
 2_in_production/
 3_ready_to_upload/
 4_cloud_warehouse/
 5_failed_logs/
+6_processed_raw_archive/
+cloud_archived_videos/
+input_videos/
+hooks/
+hooks_v2/
+scratch/
 fonts/
 raw_backups/
 
